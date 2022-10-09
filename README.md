@@ -3,7 +3,8 @@ PART I – Application: Load and overview data related to your theme
 
 Lload the data and identify its key aspects (number of samples/instances, number of dimensions/features/attributes, number of classes, names of classes, number of samples per class).
 
-PART II – Application: Clustering 
+PART II – Application: Clustering
+
 a)	Using clustering methods to partition the dataset.
 
 b)	Evaluate the clustering methods using appropriate metrics such as the Adjusted Rand index, Homogeneity, Completeness and V-Measure, using the ground truth.
